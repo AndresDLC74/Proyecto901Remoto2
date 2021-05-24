@@ -1,1 +1,1 @@
-Bienvenidos al mundo Git, estamos en local repository
+Bienvenidos al mundo Git, estamos en working directory
